@@ -51,7 +51,3 @@ No requiere instalación de dependencias como Node.js o NPM.
 - **Lucide Icons** — Iconografía vectorial
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está distribuido bajo la licencia **MIT**. Puedes usarlo, modificarlo y distribuirlo libremente.
