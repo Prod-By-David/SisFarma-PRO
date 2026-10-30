@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Isotipo Cruz Sanitaria -->
+  <rect x="5" y="5" width="40" height="40" rx="10" fill="url(#grad)" />
+  <path d="M 25 15 L 25 35 M 15 25 L 35 25" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Texto Tipográfico SisFarma -->
+  <text x="55" y="30" font-family="&#39;Inter&#39;, sans-serif" font-weight="700" font-size="20" fill="#ffffff">SisFarma</text>
+  <rect x="150" y="16" width="32" height="14" rx="3" fill="#042f2e" stroke="#115e59" stroke-width="1" />
+  <text x="156" y="27" font-family="&#39;JetBrains Mono&#39;, monospace" font-weight="600" font-size="8" fill="#2dd4bf">PRO</text>
+</svg>
